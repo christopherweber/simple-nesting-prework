@@ -15,7 +15,7 @@ def hopper
           :languages => ["C"]
         }
      }
-  grace_hopper["COBOL"]
+  programmer_hash[:grace_hopper]
   
 end
 
